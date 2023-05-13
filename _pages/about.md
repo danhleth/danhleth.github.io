@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 ## News
-- I'm graduate Bsc Computer Science at Dec 2023.
+- I'll graduate Bsc Computer Science at Dec 2023.
 - My current timezone is ICT (GMT+7).
-- I'm looking for a Ph.D. position in Fall 2023 on the topic of Machine Learning and AI/ML for Sciences
+- I'm looking for a Ph.D. position in Fall 2024 on the topic of Machine Learning and AI/ML for Sciences
 <!-- ## General -->
 
 ## Mentors
@@ -24,10 +24,7 @@ redirect_from:
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
 ## Research interests
-Currently, I'm AI Engineer at Phenikaa MaaS, Phenikaa MaaS is a company that provides smart transportation solutions. The company's flagship product is BusMap, an online bus map for Vietnam. BusMap allows users to plan bus routes, track bus locations, and get real-time bus arrival information. The company also provides other smart transportation solutions, founded by CEO Le Yen Thanh. I'm interested in Deep Learning on edge device, how I run AI which low computing
-
-I am interested in solving problems in Machine Learning/Deep Learning. I could work well with MLOps.
-
+I am currently working as an AI Engineer at Phenikaa MaaS, a company specializing in smart transportation solutions, with their flagship product being BusMap - an online bus map for Vietnam. My focus lies in exploring the potential of Deep Learning on edge devices, with a specific interest in optimizing AI performance on low computing devices. As a result, I am keen on tackling complex Machine Learning and Deep Learning challenges. Furthermore, I have experience working with MLOps and am confident in my ability to efficiently manage Machine Learning operations.
 ## Previous research experience
 
 
