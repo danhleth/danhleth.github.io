@@ -24,7 +24,7 @@ redirect_from:
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
 ## Research interests
-I am currently working as an AI Engineer at Phenikaa MaaS, a company specializing in smart transportation solutions, with their flagship product being BusMap - an online bus map for Vietnam. My focus lies in exploring the potential of Deep Learning on edge devices, with a specific interest in optimizing AI performance on low computing devices. As a result, I am keen on tackling complex Machine Learning and Deep Learning challenges. Furthermore, I have experience working with MLOps and am confident in my ability to efficiently manage Machine Learning operations.
+I am interested in system design and the architectures of large-scale systems. Along with my major, I’m pursuing ml-infrastructure. Currently I'm working as an AI Engineer at Phenikaa MaaS, a company specializing in smart transportation solutions, with their flagship product being BusMap - an online bus map for Vietnam. My focus lies in exploring the potential of Deep Learning on edge devices, with a specific interest in optimizing AI performance on low computing devices. As a result, I am keen on tackling complex Machine Learning and Deep Learning challenges. Furthermore, I have experience working with MLOps and am confident in my ability to efficiently manage Machine Learning operations.
 ## Previous research experience
 
 
