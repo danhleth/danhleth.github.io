@@ -7,15 +7,20 @@ redirect_from:
   - /about/ß
   - /about.html
 ---
+
+## Hello
+I am interested in system design and the architectures of large-scale systems. Along with my major, I’m pursuing ml-infrastructure. Currently I'm working as an Research Engineer at Air Traffic Management Research Institute (ATMRI). My focus lies in exploring the potential of Deep Learning on advertising and marketing industry. My goal in future to be become an innovator who solve social problem with AI technology. Furthermore, I have experience working with MLOps and am confident in my ability to efficiently manage Machine Learning operations.
+
+Research Interest: Representation Learning, Multimedia Application, Retrieval.
+
 ## News
-- I'll graduate Bsc Computer Science at Dec 2023.
 - My current timezone is ICT (GMT+7).
-- I'm looking for a Ph.D. position in Fall 2024 on the topic of Machine Learning and AI/ML for Sciences
+- I'm looking for a Ph.D. position in Spring 2025 on the topic of Machine Learning and AI/ML for Sciences
 <!-- ## General -->
 
 ## Mentors
 - [Assoc Prof. Tran Minh Triet](https://www.fit.hcmus.edu.vn/~tmtriet/), University of Science & John von Neumann Institute, VNU-HCM
-
+- [Prof Vu N. Duon](https://dr.ntu.edu.sg/cris/rp/rp00362), Professor of Aerospace Engineering, School of Mechanical & Aerospace Engineering
 
 ## Education
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
@@ -23,12 +28,8 @@ redirect_from:
   - [Advanced Program in Computer Science](https://www.ctdb.hcmus.edu.vn/en/academic-programs/advanced-program-in-computer-science/), one of the ten innovative programs created in a national project to renovate university education by the Vietnamese Ministry of Education.
   - The university is among the *top 2* undergraduate institutes in Vietnam in Computer Science.
 
-## Research interests
-I am interested in system design and the architectures of large-scale systems. Along with my major, I’m pursuing ml-infrastructure. Currently I'm working as an AI Engineer at Phenikaa MaaS, a company specializing in smart transportation solutions, with their flagship product being BusMap - an online bus map for Vietnam. My focus lies in exploring the potential of Deep Learning on edge devices, with a specific interest in optimizing AI performance on low computing devices. As a result, I am keen on tackling complex Machine Learning and Deep Learning challenges. Furthermore, I have experience working with MLOps and am confident in my ability to efficiently manage Machine Learning operations.
-## Previous research experience
-
-
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!-- ## Previous research experience
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Science, VNU-HCM, 2019-2023
+* B.S. in Computer Science, University of Science, VNU-HCM, 2019-2024
 
 Work experience
 ======
@@ -53,11 +53,11 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Service and leadership
 ======
