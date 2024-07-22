@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thanh-Danh Le"
+title                    : "Danh Le"
 title_separator          : "-"
 name                     : &name "Danh Le"
 description              : &description "personal description"

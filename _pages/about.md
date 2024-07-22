@@ -20,7 +20,7 @@ Research Interest: Representation Learning, Multimedia Application, Retrieval.
 
 ## Mentors
 - [Assoc Prof. Tran Minh Triet](https://www.fit.hcmus.edu.vn/~tmtriet/), University of Science & John von Neumann Institute, VNU-HCM
-- [Prof Vu N. Duon](https://dr.ntu.edu.sg/cris/rp/rp00362), Professor of Aerospace Engineering, School of Mechanical & Aerospace Engineering
+- [Prof Vu N. Duong](https://dr.ntu.edu.sg/cris/rp/rp00362), Professor of Aerospace Engineering, School of Mechanical & Aerospace Engineering
 
 ## Education
 **University of Science, Vietnam National University - Ho Chi Minh City, Vietnam**
