@@ -14,8 +14,8 @@ I am interested in system design and the architectures of large-scale systems. A
 Research Interest: Representation Learning, Multimedia Application, Retrieval.
 
 ## News
-- My current timezone is ICT (GMT+7).
-- I'm looking for a Ph.D. position in Spring 2025 on the topic of Machine Learning and AI/ML for Sciences
+- My current timezone is ICT (GMT+8).
+- I'm looking for a Ph.D. position in Spring 2026 on the topic of Machine Learning and AI/ML for Sciences
 <!-- ## General -->
 
 ## Mentors
