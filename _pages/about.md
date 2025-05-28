@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-## Hello
-I am interested in system design and the architectures of large-scale systems. Along with my major, I’m pursuing ml-infrastructure. Currently I'm working as an Research Engineer at Air Traffic Management Research Institute (ATMRI). My focus lies in exploring the potential of Deep Learning on advertising and marketing industry. My goal in future to be become an innovator who solve social problem with AI technology. Furthermore, I have experience working with MLOps and am confident in my ability to efficiently manage Machine Learning operations.
+## About me
+I am a Research Engineer at the Air Traffic Management Research Institute (ATMRI), where I design and develop machine learning solutions for air traffic management. My work focuses on creating efficient, large-scale ML systems, reflecting my deep interest in system design and the architectures of expansive technological frameworks. In parallel with my professional role, I am pursuing academic studies with a concentration on machine learning infrastructure, enhancing my ability to build robust and scalable systems. With hands-on experience in MLOps, I excel at managing machine learning operations with precision and efficiency.
 
-Research Interest: Representation Learning, Multimedia Application, Retrieval.
+My research interests include Multimedia Applications, Information Retrieval, Reinforcement Learning, and Agentic AI. Looking ahead, I aspire to become an innovator who leverages AI technology to address pressing social challenges.
 
 ## News
 - My current timezone is ICT (GMT+8).
