@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate Favicon</title>
+</head>
+<body>
+    <canvas id="canvas" width="32" height="32"></canvas>
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        
+        // Blue background
+        ctx.fillStyle = '#646cff';
+        ctx.fillRect(0, 0, 32, 32);
+        
+        // White text
+        ctx.fillStyle = 'white';
+        ctx.font = 'bold 16px Arial';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText('DL', 16, 17);
+        
+        // Convert to PNG and download
+        canvas.toBlob(function(blob) {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'favicon.png';
+            a.click();
+        });
+    </script>
+    <p>Favicon will download automatically. Then:</p>
+    <ol>
+        <li>Save the downloaded favicon.png to /public/</li>
+        <li>Update index.html to use favicon.png instead of icon.svg</li>
+        <li>For .ico format, use an online converter like https://favicon.io/</li>
+    </ol>
+</body>
+</html>
