@@ -1,30 +1,15 @@
-<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <radialGradient id="furGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
-            <stop offset="0%" stop-color="#F5EFE0" />
-            <stop offset="100%" stop-color="#E8D9C5" />
-        </radialGradient>
-        <linearGradient id="earGradient" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stop-color="#D4BFA1"/>
-            <stop offset="100%" stop-color="#B4975A"/>
-        </linearGradient>
-        <linearGradient id="accentGradient" x1="0" y1="0" x2="0" y2="1">
-            <stop offset="0%" stop-color="#B4975A"/>
-            <stop offset="100%" stop-color="#800020"/>
-        </linearGradient>
-    </defs>
-
+<svg width="32" height="32" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
     <g id="ElegantPiggyCat" transform="translate(0, 10)">
         <!-- Ears -->
         <g id="Ears" stroke="#800020" stroke-width="2.5" stroke-linejoin="round">
-            <path d="M75 85 L45 20 Q40 8 62 15 L105 65" fill="#F5EFE0"/>
-            <path d="M225 85 L255 20 Q260 8 238 15 L195 65" fill="#F5EFE0"/>
-            <path d="M73 75 L55 30 Q52 23 67 28 L95 63 Z" fill="url(#earGradient)" stroke="#800020" stroke-width="1.5"/>
-            <path d="M227 75 L245 30 Q248 23 233 28 L205 63 Z" fill="url(#earGradient)" stroke="#800020" stroke-width="1.5"/>
+            <path d="M75 85 L45 20 Q40 8 62 15 L105 65" fill="#F5EFE0" stroke="#800020" stroke-width="2.5"/>
+            <path d="M225 85 L255 20 Q260 8 238 15 L195 65" fill="#F5EFE0" stroke="#800020" stroke-width="2.5"/>
+            <path d="M73 75 L55 30 Q52 23 67 28 L95 63 Z" fill="#B4975A" stroke="#800020" stroke-width="1.5"/>
+            <path d="M227 75 L245 30 Q248 23 233 28 L205 63 Z" fill="#B4975A" stroke="#800020" stroke-width="1.5"/>
         </g>
 
         <!-- Face -->
-        <ellipse cx="150" cy="150" rx="105" ry="110" fill="url(#furGradient)" stroke="#800020" stroke-width="2.5"/>
+        <ellipse cx="150" cy="150" rx="105" ry="110" fill="#E8D9C5" stroke="#800020" stroke-width="2.5"/>
 
         <!-- Hair/Bangs -->
         <path d="M100 55 Q150 35 200 55" stroke="#333333" stroke-width="3" fill="none" stroke-linecap="round"/>
@@ -46,7 +31,7 @@
 
         <!-- Snout -->
         <g id="Snout">
-            <ellipse cx="150" cy="180" rx="28" ry="20" fill="url(#earGradient)" stroke="#800020" stroke-width="2"/>
+            <ellipse cx="150" cy="180" rx="28" ry="20" fill="#B4975A" stroke="#800020" stroke-width="2"/>
             <ellipse cx="142" cy="180" rx="4" ry="6" fill="#800020"/>
             <ellipse cx="158" cy="180" rx="4" ry="6" fill="#800020"/>
         </g>
@@ -55,7 +40,7 @@
         <path d="M138 215 Q150 220 162 215" stroke="#800020" stroke-width="2" fill="none" stroke-linecap="round"/>
 
         <!-- Whiskers -->
-        <g id="Whiskers" stroke="#B4975A" stroke-width="1.5" fill="none" opacity="0.6">
+        <g id="Whiskers" stroke="#B4975A" stroke-width="1.5" fill="none" opacity="0.8">
             <path d="M65 170 Q90 180 110 175" />
             <path d="M60 190 Q90 195 115 185" />
             <path d="M235 170 Q210 180 190 175" />
@@ -63,7 +48,7 @@
         </g>
 
         <!-- Cheeks -->
-        <g id="Cheeks" fill="url(#accentGradient)" opacity="0.3">
+        <g id="Cheeks" fill="#B4975A" opacity="0.4">
             <ellipse cx="85" cy="175" rx="15" ry="8"/>
             <ellipse cx="215" cy="175" rx="15" ry="8"/>
         </g>
