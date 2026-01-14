@@ -77,13 +77,13 @@ export function AboutPage() {
         </p>
 
 
-        <p>
+        {/* <p>
           Currently, I'm pursuing <span className="text-accent">ml-infrastructure</span> alongside my research, 
           exploring how to build AI systems that are not only powerful but also <span className="text-accent">reliable</span> and 
           <span className="text-accent"> maintainable</span> in production. Through my hands-on experience with 
           AI practices, I focus on creating systems that serve real human needs 
           while remaining efficient and scalable.
-        </p>
+        </p> */}
         
         <p>
           Besides technical work, I also love exploring <span className="text-accent">moments</span>, 
@@ -92,7 +92,7 @@ export function AboutPage() {
         </p>
 
          <p className="font-medium text-burgundy dark:text-accent">
-          🔔 News: I'm looking for a Ph.D. position in Fall 2026 on the topic of Machine Learning and AI/ML for Sciences.
+          🔔 News: I'm looking for a Ph.D. position in Fall 2026 on the topic of AI/ML for Sciences.
         </p>
       </motion.div>
 
@@ -125,7 +125,7 @@ export function AboutPage() {
               Prof Vu N. Duong
             </a>, Vice Provost of Graduate Education, VinUniversity
           </li>
-          <li>
+          {/* <li>
             <a 
               href="https://tuanluu.github.io/" 
               target="_blank"
@@ -134,7 +134,8 @@ export function AboutPage() {
             >
               Assoc Prof. Luu Anh Tuan
             </a>, College of Computing and Data Science, Nanyang Technological University
-          </li>
+          </li> */}
+          
         </ul>
       </motion.div>
 
@@ -214,7 +215,7 @@ export function AboutPage() {
           <span>LinkedIn</span>
         </a>
         <a 
-          href="https://instagram.com" 
+          href="https://www.instagram.com/danhleth/" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center gap-2 text-[#333333] dark:text-gray-300 hover:text-accent transition-colors"
@@ -227,10 +228,10 @@ export function AboutPage() {
         <p className="text-[#333333] dark:text-gray-300">
           Or mail me at{' '}
           <a 
-            href="mailto:ltdanh034@gmail.com" 
+            // href="mailto:ltdanh034+homepage@gmail.com" 
             className="text-[#333333] dark:text-gray-300 hover:text-accent transition-colors"
           >
-            <code className="bg-[#F5F5F7] dark:bg-[#333333] px-2 py-0.5 rounded">ltdanh034@gmail.com</code>
+            <code className="bg-[#F5F5F7] dark:bg-[#333333] px-2 py-0.5 rounded">ltdanh034 at gmail dot com</code>
           </a>
         </p>
       </motion.div>
