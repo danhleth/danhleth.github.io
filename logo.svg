@@ -1,0 +1,40 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="ElegantPiggyCatEngrave" transform="translate(0, 10)">
+        <g id="Ears" stroke="#000000" stroke-width="3" stroke-linejoin="round">
+            <path d="M75 85 L45 20 Q40 8 62 15 L105 65" fill="none"/>
+            <path d="M225 85 L255 20 Q260 8 238 15 L195 65" fill="none"/>
+            <path d="M73 75 L55 30 Q52 23 67 28 L95 63" fill="none"/>
+            <path d="M227 75 L245 30 Q248 23 233 28 L205 63" fill="none"/>
+        </g>
+
+        <ellipse cx="150" cy="150" rx="105" ry="110" stroke="#000000" stroke-width="3" fill="none"/>
+
+        <path d="M100 55 Q150 35 200 55" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+        <path d="M130 50 Q150 40 170 50" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+        <g id="Eyes">
+            <path d="M95 135 Q118 115 140 135 Q118 155 95 135 Z" stroke="#000000" stroke-width="2.5" fill="none"/>
+            <circle cx="118" cy="135" r="9" fill="#000000"/>
+            <path d="M92 133 Q118 110 143 133" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+
+            <path d="M160 135 Q182 115 205 135 Q182 155 160 135 Z" stroke="#000000" stroke-width="2.5" fill="none"/>
+            <circle cx="182" cy="135" r="9" fill="#000000"/>
+            <path d="M157 133 Q182 110 208 133" stroke="#000000" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        </g>
+
+        <g id="Snout">
+            <ellipse cx="150" cy="180" rx="28" ry="20" stroke="#000000" stroke-width="3" fill="none"/>
+            <ellipse cx="142" cy="180" rx="4" ry="6" fill="#000000"/>
+            <ellipse cx="158" cy="180" rx="4" ry="6" fill="#000000"/>
+        </g>
+
+        <path d="M138 215 Q150 220 162 215" stroke="#000000" stroke-width="3" fill="none" stroke-linecap="round"/>
+
+        <g id="Whiskers" stroke="#000000" stroke-width="2.5" fill="none">
+            <path d="M65 170 L110 175" />
+            <path d="M60 190 L115 185" />
+            <path d="M235 170 L190 175" />
+            <path d="M240 190 L185 185" />
+        </g>
+    </g>
+</svg>
