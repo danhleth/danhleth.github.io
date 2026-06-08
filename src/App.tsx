@@ -6,6 +6,7 @@ import { PublicationsPage } from './pages/PublicationsPage';
 import { ProjectsPage } from './pages/ProjectsPage';
 import { ProjectDetailPage } from './pages/ProjectDetailPage';
 import { PhotographyPage } from './pages/PhotographyPage';
+import { AikidoPage } from './pages/AikidoPage';
 import { FloatingShapes } from './components/FloatingShapes';
 
 export default function App() {
@@ -74,6 +75,8 @@ export default function App() {
         ) : null;
       case 'photography':
         return <PhotographyPage key="photography" />;
+      case 'aikido':
+        return <AikidoPage key="aikido" />;
       default:
         return <AboutPage key="about" />;
     }

@@ -13,10 +13,11 @@ export function TopNavigation({ isDarkMode, toggleDarkMode, currentPage }: TopNa
     { id: 'projects', label: 'Projects' },
     { id: 'publications', label: 'Publications' },
     { id: 'photography', label: 'Photography' },
+    { id: 'aikido', label: 'Aikido' },
   ];
 
   return (
-    <motion.nav 
+    <motion.nav
       className="fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-[#1a1a1a]/80 backdrop-blur-md border-b border-[#333333]/10 dark:border-white/10"
       initial={{ y: -100 }}
       animate={{ y: 0 }}
@@ -28,16 +29,15 @@ export function TopNavigation({ isDarkMode, toggleDarkMode, currentPage }: TopNa
             <a
               key={item.id}
               href={`#${item.id}`}
-              className={`text-sm transition-colors hover:text-accent ${
-                currentPage === item.id
+              className={`text-sm transition-colors hover:text-accent ${currentPage === item.id
                   ? 'text-burgundy dark:text-accent'
                   : 'text-[#333333]/60 dark:text-gray-400'
-              }`}
+                }`}
             >
               {item.label}
             </a>
           ))}
-          
+
           <div className="flex items-center gap-3 ml-2 pl-3 border-l border-[#333333]/10 dark:border-white/10">
             <button
               onClick={toggleDarkMode}
