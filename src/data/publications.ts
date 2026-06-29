@@ -8,12 +8,24 @@ export interface Publication {
   color: string;
   abstract?: string;
   doi?: string;
-  type: 'conference' | 'journal' | 'workshop';
+  type: 'conference' | 'journal' | 'workshop' | 'patent';
   rank?: string;
   awards?: string[];
 }
 
 export const publications: Publication[] = [
+  {
+    id: 'td-route-recommendation-2026',
+    title: 'Profile-Driven Route Recommendation: A Multi-Layered Synthesis and LLM-Based Selection',
+    authors: 'Danh Le, Bizhao Pang, Duc-Thinh Pham, Vu N. Duong, Sameer Alam & Anh Tuan Luu',
+    venue: 'Technology Disclosure, NTUitive, NTU',
+    year: '2026',
+    link: '#',
+    color: '#34d399',
+    type: 'patent',
+    rank: 'IP',
+    abstract: 'A framework designed to optimize pre-tactical airspace workflows and assist in aviation decision-making. The system utilizes a retrieval-augmented generation (RAG) approach to analyze historical flight data, recommending optimal routing strategies.'
+  },
   {
     id: 'psivt-2024',
     title: 'Efficient 3D Brain Tumor Segmentation with Axial-Coronal-Sagittal Embedding',

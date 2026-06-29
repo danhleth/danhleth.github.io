@@ -19,7 +19,7 @@ export function PublicationsPage() {
         animate={{ opacity: 1, x: 0 }}
         transition={{ delay: 0.2 }}
       >
-        publications
+        research outputs
         <motion.div
           className="absolute -bottom-2 left-0 h-0.5 bg-gradient-to-r from-accent to-transparent"
           initial={{ width: 0 }}

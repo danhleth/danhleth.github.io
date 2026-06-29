@@ -11,7 +11,7 @@ export function TopNavigation({ isDarkMode, toggleDarkMode, currentPage }: TopNa
   const navItems = [
     { id: 'about', label: 'Home' },
     { id: 'projects', label: 'Projects' },
-    { id: 'publications', label: 'Publications' },
+    { id: 'publications', label: 'Research Outputs' },
     { id: 'photography', label: 'Photography' },
     { id: 'aikido', label: 'Aikido' },
   ];
